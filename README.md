@@ -2,7 +2,7 @@
 
 A production-grade Content Management System (CMS) specifically designed for financial document processing and management. Built with enterprise-grade security and scalability features to handle sensitive financial data processing needs of organizations like Ocrolus.
 
-## Key Differentiators
+## Key highlights
 
 - **Financial Document Intelligence**
   - Structured metadata extraction from financial documents
